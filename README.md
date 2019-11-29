@@ -1,2 +1,4 @@
 # T-cell-development
 New insights of Intra-thymic αβ-T cell development at single-cell resolution
+
+αβ-T cells generated from thymopoiesis are essential for the immune system. However, details of αβ-T cell development are still far from fully illustrated. Here, via single-cell sequencing, we classified main cell subtypes along the thymocyte development and identified them by flow cytometry. Furthermore, we found that DPbla cells would differentiate into DPre cells within a single round of cell cycle. At selection stages, we observed immune synapse formed between thymocytes, indicating CD8 associated selection between thymocytes. Moreover, we found that the thymic selection progress was highly associated with rheumatoid arthritis and inflammatory bowel disease. Together, our study provides new sights of thymocyte development and reveals that abnormal thymic selection can be a casual factor of  specific autoimmune diseases.
